@@ -1,0 +1,6 @@
+- In some cases negative results still yields positive profit
+- Labels for the performance plot for the host are not showing correct colors
+- The kick buttons (both host lobby and player page) are not always working (several methods tried to fix it)
+- Co2 tax label is not set in host statistics
+- In one case a player was able to transition into next bidround before the player had started it
+- In one case a player crashed (unknown reason as no log was present) after receiving the end game packet from the host
