@@ -1,4 +1,6 @@
 """
+This file contains the networking code for both the host and the player
+
 Network has to run on separate threads so that the GUI is not blocked while network codes are run
 Explaination: code is evaluated on a per line basis so if one line is held up the other code can not run. The GUI is
 running on one line while the player does not exit the window so this meanas other code can not be run in the background.
