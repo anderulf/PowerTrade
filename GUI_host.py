@@ -1416,8 +1416,6 @@ class startWindow_host(QtWidgets.QMainWindow, Ui_MainWindow_Host):
                 data["second"] = self.game_obj.endTime.second
             elif header == "start bid phase":
                 data["header"] = header
-                #data["phase"] = self.game_obj.phase
-                #data["year"] = self.game_obj.year
                 #data["event"]
                 #data["weather"]
             elif header == "new bid round":
