@@ -1,0 +1,8 @@
+tests/*
+*.spec
+play_duplicate.py
+play_duplicate2.py
+player_copy.py
+powerTrade.py
+testing_2.py
+testing_script.py
