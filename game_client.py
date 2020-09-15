@@ -5,7 +5,6 @@ import globals
 
 class Game_client:
     """
-    TODO: remove all get and set methods
     The game class for the client (player) and host. Keeps track of key game aspects
     """
     def __init__(self, role):
